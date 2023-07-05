@@ -1,11 +1,11 @@
 {
-    "name": "BlogPartnwe.ai",
+    "name": "BlogPartner.ai",
     "version": "1.0.0",
     "description": "Auto suggests blogs",
     "manifest_version": 3,
     "author": "State of the art of Engineering",
     "action":{
         "default_popup": "index.html",
-        "default_title": "BlogPartnwe.ai"
+        "default_title": "BlogPartner.ai"
     }
 }
